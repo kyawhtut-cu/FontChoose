@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Font Chooser</string>
+
+    <!--Font choose-->
+    <string name="label_font_choose_summary">Please select your Font</string>
+    <string name="label_zawgyi_title">ျမန္မာဘာသာ</string>
+    <string name="label_zawgyi">ဒီစာကိုဖတ္လို႔ရပါသလား?</string>
+    <string name="label_unicode">ဒီစာကိုဖတ်လို့ရပါသလား?</string>
+    <string name="label_unicode_title">မြန်မာဘာသာ</string>
+    <string name="lbl_done">Done</string>
+    <string name="label_english_title">English</string>
+    <string name="label_myanmar_title">Myanmar</string>
+    <string name="lbl_previous">Back</string>
+    <string name="label_language_choose_title">Choose Your Language</string>
+</resources>

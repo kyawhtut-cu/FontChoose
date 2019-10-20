@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ဖောင့်ချိန်းသည်</string>
+    <string name="action_settings" translatable="false">ပြင်ဆင်ရန်</string>
+    <string name="lbl_hello">မင်္ဂလာပါ</string>
+    <string name="lbl_welcome">မင်္ဂလာပါကြိုဆိုပါသည်ခင်ဗျာ။</string>
+    <string name="lbl_next">ရှေ့သို့</string>
+</resources>
